@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrés Eduardo Arreaza D'Antonio</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/4GeeksAcademy/Proyecto-AKH-MEDICAL](https://github.com/4GeeksAcademy/Proyecto-AKH-MEDICAL)
+- 🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Andres-Arreaza](https://github.com/Andres-Arreaza)
+
+- 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
 - 📫 How to reach me **aearreaza5@gmail.com**
 
