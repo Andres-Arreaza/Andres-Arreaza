@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
   <p align="center">
-    <span>Email</span>
+    <span>Email:</span>
     <a href="aearreaza5@gmail.com" target="blank">
-      Email
+      aearreaza5@gmail.com
     </a><br><br>
-    <span></span>
+    <span>Hackerrank</span>
     <a href="https://www.hackerrank.com/aearreaza5" target="blank">
       Hackerrank
     </a>
