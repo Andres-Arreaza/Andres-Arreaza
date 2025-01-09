@@ -13,9 +13,9 @@
   <p align="center">
     <a href="https://linkedin.com/in/andrés-arreaza-b070a0303" target="blank">
       <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" alt="andres-arreaza-1a6235252"  height="40" style="vertical-align:top; margin:4px" />
-    </a>
+    </a><br>
     <a href="https://www.hackerrank.com/aearreaza5" target="blank">
-      <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="aearreaza5" height="40" style="vertical-align:top; margin:4px" />
+      <img align="center" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_hackerrank_icon_158870.png" alt="aearreaza5" height="40" style="vertical-align:top; margin:4px" />
     </a>
   </p>
 
