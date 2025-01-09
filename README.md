@@ -1,7 +1,7 @@
 ## Languages and Tools 
 <div align="center">
 <h1 align="center">Hi 👋, I'm Andrés Eduardo Arreaza D'Antonio</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate full stack developer from Venezuela</h3>
 
 🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
 
