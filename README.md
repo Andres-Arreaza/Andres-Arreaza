@@ -6,10 +6,8 @@
 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
 <h3 align="left">Connect with me:</h3>
-  <p align="center">
-    <span>📫 Email:</span>
-    **aearreaza5@gmail.com**<br><br>
-  </p>
+  📫 Email **aearreaza5@gmail.com**
+<br><br><br>
 <h3>Languages and Tools </h3> 
 <div align="center">
 
