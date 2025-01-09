@@ -7,18 +7,12 @@
 
 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
-📫 How to reach me **aearreaza5@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
   <p align="center">
-    <span>Email:</span>
+    <span>📫 Email:</span>
     <a href="aearreaza5@gmail.com" target="blank">
       aearreaza5@gmail.com
     </a><br><br>
-    <span>Hackerrank:</span>
-    <a href="https://www.hackerrank.com/aearreaza5" target="blank">
-      aearreaza5
-    </a>
   </p>
 
 
