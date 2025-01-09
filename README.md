@@ -12,7 +12,7 @@
       aearreaza5@gmail.com
     </a><br><br>
   </p>
-## Languages and Tools 
+<h3>Languages and Tools </h3> 
 <div align="center">
 
 <img src="./assets/img/collage 2.jpg"/>
