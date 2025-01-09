@@ -2,7 +2,8 @@
 <div align="center">
 
 <img src="./assets/img/collage 2.jpg"/>
-<br>
+<br><br>
+
 <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" height="40" style="vertical-align:top; margin:4px">
@@ -38,7 +39,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
 </p>
-<br>
+<br><br><br><br><br><br>
 
 ![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
 ![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)
