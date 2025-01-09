@@ -15,9 +15,9 @@
     <a href="aearreaza5@gmail.com" target="blank">
       aearreaza5@gmail.com
     </a><br><br>
-    <span>Hackerrank</span>
+    <span>Hackerrank:</span>
     <a href="https://www.hackerrank.com/aearreaza5" target="blank">
-      Hackerrank
+      aearreaza5
     </a>
   </p>
 
