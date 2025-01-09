@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Andrés Eduardo Arreaza D'Antonio</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
+🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
 
-- 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
+💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
-- 📫 How to reach me **aearreaza5@gmail.com**
+📫 How to reach me:
+                      **aearreaza5@gmail.com**
+                      **aearreaza5@gmail.com**
+                      **aearreaza5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
   <p align="center">
