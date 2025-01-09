@@ -3,56 +3,41 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<p >
-
-  
+<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" alt="CSS Icon" height="40" style="vertical-align:top; margin:4px"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" height="40" alt="bootstrap logo"  />
-  </p>
-  <p>
+</p>
+
+<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" alt="react" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_larger_button_icon_151950.png" height="40" alt="nodejs logo"  />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/npm_button_icon_151891.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jquery_button_icon_151954.png" height="40" alt="jquery"  />
-  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
-    
-  </p>
-  <p>
+  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />     
+</p>
+
+<p>
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png"  height="40" style="vertical-align:top; margin:4px">
-    
-  </p>
-  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">    
+</p>
+
+<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
   <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
 </p>
 <p>
-  
-    
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/go_button_icon_151930.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" height="40" style="vertical-align:top; margin:4px" >C  
-  <img src="https://avatars1.githubusercontent.com/u/6609701?v=3&s=280" title="Cobol" alt="Cobol" height="40" style="vertical-align:top; margin:4px" >COBOL      
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png"  height="40" style="vertical-align:top; margin:4px">
-    </p>
-    
-  <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png"  height="40" style="vertical-align:top; margin:4px">
-  
-  
-
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/stackoverflow_button_icon_151839.png"  height="40" style="vertical-align:top; margin:4px">
- 
 </p>
-  <p>
+
+<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/security_button_icon_151909.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"  height="40" style="vertical-align:top; margin:4px">
@@ -93,7 +78,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/xbox_button_icon_151857.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nintendo_button_icon_151863.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
-    
+ 
 </p>
 
 ![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
@@ -101,8 +86,5 @@
 
 <p align="center">
   <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
-  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-  
-
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
