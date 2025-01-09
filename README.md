@@ -5,17 +5,16 @@
 
 - 🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Andres-Arreaza](https://github.com/Andres-Arreaza)
-
 - 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
 - 📫 How to reach me **aearreaza5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andres-arreaza-1a6235252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-arreaza-1a6235252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aearreaza5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aearreaza5" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/andres-arreaza-1a6235252" target="blank"><img align="center" src="https://icon-icons.com/icon/linkedin/53609" alt="andres-arreaza-1a6235252" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/aearreaza5" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="aearreaza5" height="30" width="40" /></a>
 </p>
+
 <img src="./assets/img/collage 2.jpg"/>
 <br><br><br>
 
