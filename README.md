@@ -5,11 +5,10 @@
 
 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
+<h3 align="left">Connect with me:</h3>
+
 📫 How to reach me **aearreaza5@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-  📫 Email **aearreaza5@gmail.com**
-<br><br><br>
 <h3>Languages and Tools </h3> 
 <div align="center">
 
