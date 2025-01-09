@@ -8,9 +8,7 @@
 <h3 align="left">Connect with me:</h3>
   <p align="center">
     <span>📫 Email:</span>
-    <a href="aearreaza5@gmail.com" target="blank">
-      aearreaza5@gmail.com
-    </a><br><br>
+    **aearreaza5@gmail.com**<br><br>
   </p>
 <h3>Languages and Tools </h3> 
 <div align="center">
