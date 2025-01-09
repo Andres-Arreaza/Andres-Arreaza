@@ -21,7 +21,6 @@
 
 <p>
   <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">    
 </p>
 
@@ -31,16 +30,12 @@
   <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
 </p>
 <p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/stackoverflow_button_icon_151839.png"  height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"  height="40" style="vertical-align:top; margin:4px">
-</p>
-<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
