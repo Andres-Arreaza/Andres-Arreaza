@@ -1,5 +1,3 @@
-## Languages and Tools 
-<div align="center">
 <h1 align="center">Hi 👋, I'm Andrés Eduardo Arreaza D'Antonio</h1>
 <h3 align="center">A passionate full stack developer from Venezuela</h3>
 
@@ -14,7 +12,8 @@
       aearreaza5@gmail.com
     </a><br><br>
   </p>
-
+## Languages and Tools 
+<div align="center">
 
 <img src="./assets/img/collage 2.jpg"/>
 <br><br><br>
