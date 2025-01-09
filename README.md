@@ -58,11 +58,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/mac_button_icon_151864.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
-  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png"  height="40" >
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/chrome_button_icon_151918.png"  height="40" >
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="office365"  />
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vmware_button_icon_151867.png" height="40" alt="office365"  />
 </p>
 
 ![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
