@@ -7,18 +7,15 @@
 
 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
 
-📫 How to reach me:
-                      **aearreaza5@gmail.com**
-                      **aearreaza5@gmail.com**
-                      **aearreaza5@gmail.com**
+📫 How to reach me **aearreaza5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
   <p align="center">
-    <a href="https://linkedin.com/in/andrés-arreaza-b070a0303" target="blank">
-      <img align="center" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" alt="andres-arreaza-1a6235252"  height="40" style="vertical-align:top; margin:4px" />
+    <a href="aearreaza5@gmail.com" target="blank">
+      Email
     </a><br><br>
     <a href="https://www.hackerrank.com/aearreaza5" target="blank">
-      <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="aearreaza5" height="40" style="vertical-align:top; margin:4px" />
+      Hackerrank
     </a>
   </p>
 
