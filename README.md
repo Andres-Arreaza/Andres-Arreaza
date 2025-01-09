@@ -1,19 +1,108 @@
-<h1 align="center">Hi 👋, I'm Andrés Eduardo Arreaza D'Antonio</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+## Languages and Tools 
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced React and Redux, Microservices Architecture**
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/Andres-Arreaza](https://github.com/Andres-Arreaza)
+<p >
 
-- 💬 Ask me about **Full Stack Development, RESTful APIs, Database Design**
+  
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 
-- 📫 How to reach me **aearreaza5@gmail.com**
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/html_button_icon_151929.png" alt="html" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/css_button_icon_151935.png" alt="CSS Icon" height="40" style="vertical-align:top; margin:4px"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bootstrap_button_icon_151958.png" height="40" alt="bootstrap logo"  />
+  </p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/js_button_icon_151927.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/react_button_icon_151947.png" alt="react" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nodejs_larger_button_icon_151950.png" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/npm_button_icon_151891.png" alt="npm" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/jquery_button_icon_151954.png" height="40" alt="jquery"  />
+  <img src="https://spin.atomicobject.com/wp-content/uploads/jest.png" height="36" alt="Jest Icon" />
+    
+  </p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/3049/PNG/512/git_icon_189418.png" alt="git" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/powershell_button_icon_151870.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/docker_button_icon_151885.png"  height="40" style="vertical-align:top; margin:4px">
+    
+  </p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" alt="python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://velog.velcdn.com/images/khyun11/post/f47f3398-35d5-463e-ba83-1f3730cf4d15/image.png" height="36" alt="Flask icon"/>
+  <img title="MySQL" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_horizontal_logo_icon_170929.png" height="36" alt="mySQL" />
+</p>
+<p>
+  
+    
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/go_button_icon_151930.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" height="40" style="vertical-align:top; margin:4px" >C  
+  <img src="https://avatars1.githubusercontent.com/u/6609701?v=3&s=280" title="Cobol" alt="Cobol" height="40" style="vertical-align:top; margin:4px" >COBOL      
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png"  height="40" style="vertical-align:top; margin:4px">
+    </p>
+    
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/tools_button_icon_151907.png"  height="40" style="vertical-align:top; margin:4px">
+  
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andres-arreaza-1a6235252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-arreaza-1a6235252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aearreaza5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aearreaza5" height="30" width="40" /></a>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/ai_button_icon_151919.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/stackoverflow_button_icon_151839.png"  height="40" style="vertical-align:top; margin:4px">
+ 
+</p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/security_button_icon_151909.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/cisco_button_icon_151865.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/tor_logo_icon_147223.png"  height="40" >
+  <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux"  height="40" >
+  <img src="https://www.parrotsec.org/favicon.png" title="Parrot" alt="Parrot"  height="40" >
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHoaz0BVyXGbQ/company-logo_100_100/company-logo_100_100/0/1704380615493/hackthebox_logo?e=1733961600&v=beta&t=IHfGIDkRcyPPSKvLLDFpEZHROjGQlBUfwtXPQvp0U24"  height="40" >
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQG0KOJuostucw/company-logo_200_200/company-logo_200_200/0/1712309984584/tryhackme_logo?e=1733961600&v=beta&t=5DHgC1dWFHBQmOFAAeGYNPaVe9PRl7XOVWQ0MciytuA"   height="40" >
+  <img src="https://raw.githubusercontent.com/github/explore/c292a03d2b4bf2e5d78dc64a7b4660684296b1da/topics/flipperzero/flipperzero.png" title="flipper-zero" alt="flipper-zero"   height="40" >
+  <img src="https://usbkill.com/cdn/shop/files/USBKill-Logo-Small_f54cce5c-6f79-49d2-a8b6-8a8600c1675f_250x90.png?v=1614343819" title="usbkill" alt="usbkill"  height="40" >
+  <img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" title="flipper-zero" alt="flipper-zero"   height="40" >
+   
+  </p>
+<p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderbluelinux_92912.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/mac_button_icon_151864.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/github_alt_macos_bigsur_icon_190138.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/visualstudio_code_button_icon_151868.png" alt="vscode" height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png"  height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/chrome_button_icon_151918.png"  height="40" >
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="office365"  />
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vmware_button_icon_151867.png" height="40" alt="office365"  />
+  </p>
+  
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/raspberrypi_button_icon_151859.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/arduino_macos_bigsur_icon_190380.png"  height="40" style="vertical-align:top; margin:4px">
+    
+  </p>
+  <p>
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gamedev_button_icon_151912.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitch_button_icon_151829.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/xbox_button_icon_151857.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nintendo_button_icon_151863.png"  height="40" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
+    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
+![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=CoolPenwin&count_private=true&theme=blue-green&title_color=00b3ff)
+
+<p align="center">
+  <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
+  <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  
+
+</p>
