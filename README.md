@@ -56,4 +56,4 @@
 <p align="center">
   <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
   <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+</p><br>
