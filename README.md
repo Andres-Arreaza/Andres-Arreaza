@@ -50,7 +50,7 @@
   <img src="https://usbkill.com/cdn/shop/files/USBKill-Logo-Small_f54cce5c-6f79-49d2-a8b6-8a8600c1675f_250x90.png?v=1614343819" title="usbkill" alt="usbkill"  height="40" >
   <img src="https://repository-images.githubusercontent.com/470579591/dae94a2a-5098-4630-95c6-eec8bceb9414" title="flipper-zero" alt="flipper-zero"   height="40" >
    
-  </p>
+</p>
 <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/pc_button_icon_151862.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderbluelinux_92912.png"  height="40" style="vertical-align:top; margin:4px">
@@ -63,22 +63,12 @@
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/office_button_icon_151888.png" height="40" alt="office365"  />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" height="40" alt="office365"  />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/vmware_button_icon_151867.png" height="40" alt="office365"  />
-  </p>
+</p>
   
-  <p>
+<p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/iot_button_icon_151911.png"  height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/raspberrypi_button_icon_151859.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/arduino_macos_bigsur_icon_190380.png"  height="40" style="vertical-align:top; margin:4px">
-    
-  </p>
-  <p>
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gamedev_button_icon_151912.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/steam_button_icon_151838.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/twitch_button_icon_151829.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/xbox_button_icon_151857.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/nintendo_button_icon_151863.png"  height="40" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png"  height="40" style="vertical-align:top; margin:4px">
- 
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/arduino_macos_bigsur_icon_190380.png"  height="40" style="vertical-align:top; margin:4px">   
 </p>
 
 ![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolPenwin\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
