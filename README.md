@@ -1,7 +1,7 @@
 ## Languages and Tools 
 <div align="center">
 
-<img src="./assets/img/fondoLinkedIn .png"/>
+<img src="./assets/img/collage 2.png"/>
 <br>
 <p>
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/web_button_icon_151905.png" alt="html" height="40" style="vertical-align:top; margin:4px">
