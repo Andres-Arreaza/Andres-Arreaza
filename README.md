@@ -56,8 +56,8 @@
 </p>
 <br><br>
 
-![CoolPenwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Arreaza\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
-![CoolPenwin's current streak](https://streak-stats.demolab.com/?user=Andres-Arreaza&count_private=true&theme=blue-green&title_color=00b3ff)
+![Andres-Arreaza GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-Arreaza\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff) 
+![Andres-Arreaza current streak](https://streak-stats.demolab.com/?user=Andres-Arreaza&count_private=true&theme=blue-green&title_color=00b3ff)
 
 <p align="center">
   <a href='https://ko-fi.com/X8X8100T4X' target='_blank'>
